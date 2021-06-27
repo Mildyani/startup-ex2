@@ -1,0 +1,27 @@
+.cird {
+    margin: 30px auto;
+    width: 35%;
+
+    img {
+        width: 8rem; 
+    }
+
+    h1 {
+        font-size: 2rem;
+        line-height: 0.5;
+    }
+
+    p {
+        font-size: 1rem;
+        color: gray;
+    }
+
+    button {
+        border: none;
+        background-color: transparent;
+        color:rgba(130, 75, 219, 0.747);
+        padding: 0;
+        font-weight: 600;
+    }
+}
+
